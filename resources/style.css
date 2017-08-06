@@ -1,0 +1,54 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+
+}
+
+.main {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.main, .center, .low {
+    text-align: center;
+}
+
+* {
+
+  font-family: Helvetica;
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: White;
+}
+
+.main h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
+}
+
+.center h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+  text-align: left;
+}
